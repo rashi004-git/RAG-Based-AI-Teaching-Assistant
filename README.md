@@ -301,7 +301,7 @@ Video Processing → Transcription → Chunking → Embeddings → Vector Storag
 
 👩‍💻 Author
 
-Vanshika Chauhan
+Rashi Chauhan
 
 Aspiring Data Scientist | Data Analyst | AI & ML Enthusiast
 
